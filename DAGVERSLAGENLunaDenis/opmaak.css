@@ -1,1 +1,24 @@
-body{font-family: Arial, Helvetica, sans-serif;}
+body{font-family: Arial, Helvetica, sans-serif;
+      margin : 0px;
+      padding : 0px;}
+nav{background-color: rgb(138, 8, 110);
+    padding : 10px;
+    text-align: right;
+    height : 85px;}
+
+li.navigate{padding: 10px;}
+      
+nav li{display : inline;
+       padding : 10px;}
+nav a{color: black;
+      border-radius: 10px;
+      text-decoration: none;
+      padding : 10px;}
+
+a:hover{background-color: rgb(179, 86, 159);}
+
+img{border-radius : 10px;
+    float : left;}
+
+
+      
