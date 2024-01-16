@@ -28,5 +28,8 @@ img{border-radius : 10px;
       padding-left : 550px;
       font-size: 35pt;
       color : rgb(138, 8, 110)}
-section{margin : 20px;
-        }
+section{margin : 20px;}
+
+iframe{border-radius: 10px;
+       margin-top: 15px;
+       margin-left: 15px;}
