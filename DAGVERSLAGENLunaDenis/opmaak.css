@@ -10,6 +10,7 @@ li.navigate{padding: 10px;}
       
 nav li{display : inline;
        padding : 10px;}
+
 nav a{color: black;
       border-radius: 10px;
       text-decoration: none;
@@ -20,5 +21,12 @@ a:hover{background-color: rgb(179, 86, 159);}
 img{border-radius : 10px;
     float : left;}
 
+#af{margin-top : 80px;
+    margin-left : 80px;}
 
-      
+#Naam{margin-top : 350px;
+      padding-left : 550px;
+      font-size: 35pt;
+      color : rgb(138, 8, 110)}
+section{margin : 20px;
+        }
