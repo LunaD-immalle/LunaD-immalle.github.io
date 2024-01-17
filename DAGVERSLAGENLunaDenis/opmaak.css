@@ -19,11 +19,13 @@ nav a{color: white;
 
 a:hover{background-color: rgb(179, 86, 159);}
 
-img{border-radius : 10px;
-    float : left;}
+img{border-radius : 10px;}
 
 #af{margin : 10px;
-    border : solid 10px rgb(138, 8, 110);}
+    border : solid 10px rgb(138, 8, 110);
+    float : left;}
+
+#afb{float : left;}
 
 #Naam{padding-top : 580px;
       font-size: 35pt;
