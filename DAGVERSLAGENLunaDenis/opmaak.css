@@ -30,7 +30,7 @@ img{border-radius : 10px;}
 #Naam{padding-top : 580px;
       font-size: 35pt;
       color : rgb(138, 8, 110)}
-section{margin : 40px;}
+article{margin : 40px;}
 
 iframe{border-radius: 10px;
        margin-top: 15px;
@@ -51,5 +51,6 @@ aside{float: right;
 #l{Color : White;
    text-decoration: none;}
 
-footer{padding-left:5px}
+footer{padding-left:5px;
+      margin : 40px;}
     
